@@ -160,7 +160,7 @@ rfc3986-validator==0.1.1
 rich==13.7.1
 rpds-py==0.18.1
 safetensors==0.4.3
-scikit-learn==1.4.2
+scikit-learn==1.5.0
 scipy==1.13.0
 seaborn==0.13.2
 send2trash==1.8.3
